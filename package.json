@@ -1,0 +1,22 @@
+{
+  "name": "glitch247",
+  "version": "1.0.0",
+  "description": "A couple of methods to keep your Glitch projects online 24/7.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
