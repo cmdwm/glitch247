@@ -14,7 +14,7 @@ fetch('https://example.org')
 console.log('hAha site ping go BrRRR')
 } 
 
-//setInterval(pong, 60000);
+setInterval(pong, 60000);
 
 
 // listen for requests | Don't change this!
