@@ -24,3 +24,4 @@ This method will let you continue using Glitch as an IDE, but **it's against Gli
 2) Find [this part](https://i.imgur.com/wZBHu0O.png) of the code and add your own sites in. If you're using this for Glitch projects, enter the `project-name.glitch.me` domain.
 
  3) When everything is set up, you can enable UptimeRobot for your Repl (using [this domain](https://i.imgur.com/ew5swCR.png)) since they don't block it. And, that's it! Your project will now be online 24/7 by using Repl.it as the middle-man.
+ [![Run on Repl.it](https://repl.it/badge/github/whasonyt/glitch247)](https://repl.it/github/whasonyt/glitch247)
